@@ -1,6 +1,6 @@
 # What is this?
 
-This project describes a set of job titles the Engineering Organization. It was developed by members of the engineering team at [Urban Airship](http://urbanairship.com/), and is the starting point for your titles at IZEA. The actual titles are in:
+This project describes a set of job titles for the Engineering Organization. The repository was developed by members of the engineering team at [Urban Airship](http://urbanairship.com/), and was the starting point for titles at IZEA. The actual titles are in:
 
 - [the doc called 'eng'](eng.md)
 
