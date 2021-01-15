@@ -2,7 +2,7 @@
 
 This project describes a set of job titles for the Engineering Organization. The repository was developed by members of the engineering team at [Urban Airship](http://urbanairship.com/), and was the starting point for titles at IZEA. The actual titles are in:
 
-- [the doc called 'eng'](eng.md)
+- [Engineering](eng.md)
 
 # Why spend time on something so boring?
 
