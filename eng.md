@@ -117,3 +117,56 @@ Identifies relevant technologies on the horizon and defines how best to leverage
 
 # Managers
 
+These titles describe seniority along four main axes: scope and impact, team development, and customer success.
+
+### Engineering Manager
+
+**Engineer Equivalent:** Senior Software Engineer
+
+#### Scope and Impact
+
+Leads a team of 3+ engineers; helps to set project scope and requirements; mentors new team members on both technical and organizational challenges.
+
+#### Team Development
+
+Set team goals and direction; determines hiring needs and helps to lead recruiting and interview activities; conducts regular 1:1s with all team members; manages performance for entire team.
+
+#### Customer Success
+
+Aids product team in setting project scope and schedule; keeps team focused on quality and regular releases; works with other team leads to find creative solutions to customer issues.
+
+### Senior Engineering Manager
+
+**Engineer Equivalent:** Principal Software Engineer
+
+#### Scope and Impact
+
+Leads a larger (6+) team of engineers and/or managers; contributes to efforts that cut across teams and projects; improves quality of shared engineering processes such as hiring, planning, and operations.
+
+#### Team Development
+
+Identifies and develops emerging leaders; sets goals for team members and tracks progress against them; identifies and addresses key talent and skill gaps through hiring, training, and organization changes.
+
+#### Customer Success
+
+Understands and shows good judgement in deciding between engineering and customer preferences, as well as speed vs. quality; educates and informs product, sales, and other roles on current engineering efforts, needs, and contributions.
+
+### Director
+
+**Engineer Equivalent:** _n/a_
+
+#### Scope and Impact
+
+Leads a larger (10+) team of engineers and/or managers; Sets cross-team direction and helps to define global engineering goals; identifies and manages programs to benefit entire engineering group; sets staffing and budget expectations for multiple teams and functional roles.
+
+#### Team Development
+
+Coaches and develops managers; helps to define performance measurement tools and management processes across engineering; conducts 1:1s as well as level-skip discussions on issues across the organization.
+
+#### Customer Success
+
+Works with product and sales teams to broadly prioritize and scope work for customers; defines and restructures teams and initiatives as needed to best address customer needs
+
+### Chief Technology Officer
+
+Title bestowed only by decision of exec staff and/or the board. Candidates should be exceptional in their experience, impact on the organization, and degree of sustained leadership and vision.
