@@ -50,7 +50,7 @@ Consistently delivers systems and features that provide value to customers and/o
 
 ## Senior Software Engineer
 
-**Management Equivalent**: Manager 
+**Management Equivalent**: Engineering Manager 
 
 ### Domain Knowledge and Execution
 
@@ -70,7 +70,7 @@ Understands customer needs and motivations; can easily explain why their work is
 
 ## Principal Software Engineer
 
-**Management Equivalent**: Senior Manager
+**Management Equivalent**: Senior Engineering Manager
 
 ### Domain Knowledge and Execution
 
@@ -129,7 +129,7 @@ Leads a team of 3+ engineers; helps to set project scope and requirements; mento
 
 ### Team Development
 
-Set team goals and direction; determines hiring needs and helps to lead recruiting and interview activities; conducts regular 1:1s with all team members; manages performance for entire team.
+Collaborates with Product team goals and direction; determines hiring needs and helps to lead recruiting and interview activities; conducts regular 1:1s with all team members; manages performance for entire team.
 
 ### Customer Success
 
