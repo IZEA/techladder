@@ -2,9 +2,9 @@
 
 This project describes a set of job titles for the Engineering Organization. The repository was developed by members of the engineering team at [Urban Airship](http://urbanairship.com/), and was the starting point for titles at IZEA. The actual titles are in:
 
-- [the doc called 'eng'](eng.md)
+- [Engineering](eng.md)
 
-# Why spend time on something so boring?
+## Why spend time on something so boring?
 
 We all want our company to be a place where great engineers can make a career out of building great software for our customers. To do that, we need several things: a shared idea of what makes an engineer "great", room for people to grow and develop for the long term, and a way of recognizing and rewarding continuing excellence. We also shouldn't have to take everyone who's really good at their job out of that job and into a management role just so they can get a promotion and the good stuff that comes along with it.
 
@@ -14,7 +14,7 @@ We have to be sensitive to the risks and potential pitfalls that accompany a for
 
 Overall, titles should be used as one of many tools in a manager's kit to motivate, recognize, and develop the members of their team. They are in some ways the public complement to private rewards like compensation and equity, and if over-emphasized or mis-applied have many of the same potential pitfalls (e.g.: [overjustification effect](http://en.wikipedia.org/wiki/Overjustification_effect)).
 
-# Why not just put this in a spreadsheet or a presentation or something like a normal manager-type person?
+## Why not just put this in a spreadsheet or a presentation or something like a normal manager-type person?
 
 Most "job ladders" (as the progression of titles is usually called) are developed outside by senior management or HR in a fairly opaque way, and changing them is very hard. As engineers, we expect for well-intentioned and well-made changes to be continuously included in our projects, and we believe there's no reason that job descriptions can't work the same way.
 
